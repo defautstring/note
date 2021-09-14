@@ -2,7 +2,7 @@
   "name": "test-app",
   "version": "1.0.0",
   "dependencies": {
-    cross-env: "^7.0.3"
+    "cross-env": "^7.0.3"
   }
 
 
